@@ -1,0 +1,34 @@
+{
+  "name": "bootstrap-ssk",
+  "version": "1.0.0",
+  "description": "Bootstrap sass start kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemixru/bootstrap-ssk.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "starter",
+    "kit",
+    "bootstrap",
+    "sass",
+    "codemix",
+    "sass",
+    "starter",
+    "kit"
+  ],
+  "author": "Codemix",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/codemixru/bootstrap-ssk/issues"
+  },
+  "homepage": "https://github.com/codemixru/bootstrap-ssk#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "gulp-sass": "^2.3.1"
+  }
+}
